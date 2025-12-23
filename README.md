@@ -15,3 +15,5 @@ docker run -p 8080:80 myapp-shopper-ui
 docker push valireddisreenu/myapp-shopper-ui:release-1.0
 
 docker tag myapp-shopper-ui valireddisreenu/myapp-shopper-ui:release-1.0 && docker images | grep myapp-shopper-ui
+
+https://hub.docker.com/u/valireddisreenu
